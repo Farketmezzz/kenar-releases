@@ -9,13 +9,14 @@ Kenar is a native Windows desktop companion built in Rust. It adds a configurabl
 ## What Kenar does
 
 - **Top bar** — Open Kenar’s Start menu, system tray, and audio mixer from the top of your screen.
-- **Media notch** — Hover over the center of the top bar to see the artwork and playback controls for the active Windows media session.
+- **Media notch** — Hover over the center of the top bar for artwork, playback controls, and volume. Choose a classic indicator or your own animated GIF.
+- **Weather and clipboard** — Check a city forecast from Open-Meteo or reuse copied text and images from Windows clipboard history.
 - **App dock** — Pin apps by dragging shortcuts onto the dock, switch to running apps, and hover over an icon to preview its open windows.
 - **Per-monitor settings** — Enable the top bar, notch, and dock on the displays you choose. Adjust their size, position, or visibility and choose between solid and glass effects.
 
 ## Screenshots
 
-These screenshots show a development build. Weather, clipboard history, and the animated GIF indicator are previews of features newer than the current public installer. The in-notch notification panel is also in development for public releases.
+These screenshots show Kenar’s desktop layout, media controls, weather, and per-monitor settings. Windows notification access inside the notch is currently limited to signed development builds.
 
 ### Expanded notch and dock
 
